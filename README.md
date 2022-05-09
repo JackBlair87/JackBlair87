@@ -9,7 +9,9 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> -->
 
+
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
 
 <br />
 
@@ -22,6 +24,7 @@ hi, i'm [Jack Blair](https://jackblair.webflow.io/interactiveresume)
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
 <!--  -->
+<!--
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -52,13 +55,16 @@ Other        25 mins         ▓░░░░░░░░░░░░░░░░
 <!-- 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
+<!--
 🏆  7,995 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 673 tasks so far           
 ⏳  Longest streak is 10 days
+<!--  -->
 <!-- TODO-IST:END -->
-
- -->
+<!--  -->
+<!-- 
 📈 my github stats
+-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JackBlair87&show_icons=true&theme=gotham" alt="JackBlair87" />
