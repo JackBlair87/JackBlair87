@@ -1,4 +1,6 @@
 ### Hi! I'm [Jack Blair](https://jackblair.webflow.io/interactiveresume), a incoming freshman at Purdue Engineering and current Senior at TJHSST.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+
 <!-- <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a> -->
@@ -13,9 +15,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 
-<br />
-
-hi, i'm [Jack Blair](https://jackblair.webflow.io/interactiveresume)
 <!-- 
 
 
@@ -39,15 +38,6 @@ hi, i'm [Jack Blair](https://jackblair.webflow.io/interactiveresume)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
  -->
 <!-- 📊 **this week i spent my time on:** -->
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   15 hrs 10 mins  ██████████████████████▒░░   88.82 %
-TypeScript   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-```
-
-<!--END_SECTION:waka-->
 
 <!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
 
