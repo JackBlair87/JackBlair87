@@ -16,12 +16,12 @@ Graduated from <a href="https://www.usnews.com/education/best-high-schools/virgi
 CAP CAP I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look. CAP CAP 
 
 ### 🤝🏼 Connect with me:
-  
-<a href="https://www.linkedin.com/in/jackblair876/"><img align="left" src="https://raw.githubusercontent.com/jackblair876/jackblair876/main/images/linkedin.svg" alt="Jack Blair | LinkedIn" width="21px"/></a>
-<a href="https://www.youtube.com/channel/UC-uTdkWQ8doqRwXBlkH67Dw"><img align="left" src="https://raw.githubusercontent.com/jackblair876/jackblair876/main/images/youtube1.png" alt="Jack Blair | YouTube" width="21px"/></a>
-<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+- <a href="https://www.linkedin.com/in/jackblair876/"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/linkedin.png" alt="Jack Blair | LinkedIn" width="21px"/></a>
+<a href="https://www.youtube.com/channel/UC-uTdkWQ8doqRwXBlkH67Dw"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/youtube1.png" alt="Jack Blair | YouTube" width="21px"/></a>
+<a href="https://www.instagram.com/jackblairr_"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/instagram.png" alt="Jack Blair | Instagram" width="21px"/></a>
+
+If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
@@ -72,15 +72,16 @@ CAP CAP
 CAP CAP 
 
 ## 📝 Recent Work
+![](https://img.shields.io/youtube/channel/views/UC-uTdkWQ8doqRwXBlkH67Dw?style=social)
+![](https://img.shields.io/youtube/channel/subscribers/UC-uTdkWQ8doqRwXBlkH67Dw?style=social)
+![](https://img.shields.io/github/followers/jackblair87?style=social)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=jackblair87.jackblair87)](https://jackblair.webflow.io/interactiveresume)
 
-- [SmartSkeg: the Autonomous Crew Data Collection and Steering System](https://www.youtube.com/watch?v=AVWecQTfoHo)
-- [Autonomous Intersection in Python](https://www.youtube.com/watch?v=THxg8fvvzO4)
+- <a href="https://www.youtube.com/watch?v=AVWecQTfoHo"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/youtube1.png" alt="SmartSkeg | YouTube" width="21px"/></a> [SmartSkeg: the Autonomous Crew Data Collection and Steering System](https://www.youtube.com/watch?v=AVWecQTfoHo)
+- <a href="https://www.youtube.com/watch?v=THxg8fvvzO4"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/youtube1.png" alt="SmartSkeg | YouTube" width="21px"/></a> [Autonomous Intersection in Python](https://www.youtube.com/watch?v=THxg8fvvzO4)
 
 ## 📈 GitHub Stats 
 
 [![Jack's Github Stats](https://github-readme-stats.vercel.app/api?username=jackblair87)](https://github.com/jackblair87)
 
 README Credit: [Yu Shi](https://github.com/yushi1007)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=jackblair87.jackblair87)](https://jackblair.webflow.io/interactiveresume)
-
