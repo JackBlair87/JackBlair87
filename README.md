@@ -3,36 +3,37 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://jackblair.webflow.io/interactiveresume" target="_blank" rel="noreferrer" alt="my website">Jack</a> 👋
-</h3>
+Hi there, I'm <a href="https://jackblair.webflow.io/interactiveresume" target="_blank" rel="noreferrer" alt="my website">Jack</a>  👋🏼</h3>
 
 <h2 align="center">
 I'm an AI Artist 💻, Audio Engineer 🎧, Builder 🛠, and Student 🎓!
 </h2> 
 
 <h3 align="center">
-Graduated from TJHSST, attending Purdue University
+Graduated from <a href="https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461" target="_blank" rel="noreferrer" alt="My High School">TJHSST</a>, attending <a href="https://www.purdue.edu/" target="_blank" rel="noreferrer" alt="My College">Purdue University</a>
 </h3>
 
 CAP CAP I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look. CAP CAP 
 
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/jackblair876/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Jack Blair | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+### 🤝🏼 Connect with me:
+  
+<a href="https://www.linkedin.com/in/jackblair876/"><img align="left" src="https://raw.githubusercontent.com/jackblair876/jackblair876/main/images/linkedin.svg" alt="Jack Blair | LinkedIn" width="21px"/></a>
+<a href="https://www.youtube.com/channel/UC-uTdkWQ8doqRwXBlkH67Dw"><img align="left" src="https://raw.githubusercontent.com/jackblair876/jackblair876/main/images/youtube1.png" alt="Jack Blair | YouTube" width="21px"/></a>
 <a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
-- Rowing team lineup generator app.
 - Crew data analytics research
+- Rowing team lineup generator app
+- AI music generation and evaluation
 
 ## 🌱 I'm currently learning
 
 - Flutter
 - Proper AI
+- Music theory
 
 ## 💼 Technical Skills
 
@@ -79,4 +80,7 @@ CAP CAP
 
 [![Jack's Github Stats](https://github-readme-stats.vercel.app/api?username=jackblair87)](https://github.com/jackblair87)
 
+README Credit: [Yu Shi](https://github.com/yushi1007)
+
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=jackblair87.jackblair87)](https://jackblair.webflow.io/interactiveresume)
+
