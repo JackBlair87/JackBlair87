@@ -13,7 +13,7 @@ I'm an AI Artist 💻, Audio Engineer 🎧, Builder 🛠, and Student 🎓!
 Graduated from <a href="https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461" target="_blank" rel="noreferrer" alt="My High School">TJHSST</a>, attending <a href="https://www.purdue.edu/" target="_blank" rel="noreferrer" alt="My College">Purdue University</a>
 </h3>
 
-CAP CAP I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look. CAP CAP 
+I love creating audio and video content with the automation and assistance of AI. I like to work on fast moving, relevant projects. This Summer, I am learning how to apply my CS skills to music creation and a general purpose music evaluation model. 
 
 ### 🤝🏼 Connect with me:
 
@@ -21,7 +21,7 @@ CAP CAP I love the entire process of developing creative websites. I love the ch
 <a href="https://www.youtube.com/channel/UC-uTdkWQ8doqRwXBlkH67Dw"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/youtube1.png" alt="Jack Blair | YouTube" width="21px"/></a>
 <a href="https://www.instagram.com/jackblairr_"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/instagram.png" alt="Jack Blair | Instagram" width="21px"/></a>
 
-If you have any question/feedback, please do not hesitate to reach out to me!
+If you have any questions or opportunities, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
 
