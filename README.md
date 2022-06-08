@@ -1,60 +1,79 @@
-### Hi! I'm [Jack Blair](https://jackblair.webflow.io/interactiveresume), a incoming freshman at Purdue Engineering and graduated Senior from TJHSST.  
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+</p>
 
+<h3 align="center">
+Hi there, I'm <a href="https://jackblair.webflow.io/interactiveresume" target="_blank" rel="noreferrer" alt="my website">Jack</a> 👋
+</h3>
 
-<!-- <a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a> -->
-<!-- <a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> -->
+<h2 align="center">
+I'm an AI Artist 💻, Builder 🛠, and Student 🎓!
+Graduated from TJHSST, attending Purdue University
+</h2> 
 
+CAP CAP I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look. CAP CAP 
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+### 🤝 Connect with me:
 
+<a href="https://www.linkedin.com/in/jackblair876/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Jack Blair | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<!-- 
+## 🔭 I'm currently working on
 
+- Rowing team lineup generator app.
+- Crew data analytics research
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
-<!--  -->
-<!--
-**languages and tools:**  
+## 🌱 I'm currently learning
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
- -->
-<!-- 📊 **this week i spent my time on:** -->
+- Flutter
+- Proper AI
 
-<!-- if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈 -->
+## 💼 Technical Skills
 
-<!-- <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
-<!-- 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-<!--
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!--  -->
-<!-- TODO-IST:END -->
-<!--  -->
-<!-- 
-📈 my github stats
--->
+CAP CAP
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
+![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+CAP CAP
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JackBlair87&show_icons=true&theme=gotham" alt="JackBlair87" />
+</br>
+
+CAP CAP 
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
+![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
+CAP CAP 
+
+</br>
+
+CAP CAP 
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
+![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+CAP CAP 
+
+## 📝 Recent Work
+
+- [SmartSkeg: the Autonomous Crew Data Collection and Steering System](https://www.youtube.com/watch?v=AVWecQTfoHo)
+- [Autonomous Intersection in Python](https://www.youtube.com/watch?v=THxg8fvvzO4)
+
+## 📈 GitHub Stats 
+
+[![Jack's Github Stats](https://github-readme-stats.vercel.app/api?username=jackblair87)](https://github.com/jackblair87)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=jackblair87.jackblair87)](https://jackblair.webflow.io/interactiveresume)
