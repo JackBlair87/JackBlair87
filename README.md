@@ -7,9 +7,12 @@ Hi there, I'm <a href="https://jackblair.webflow.io/interactiveresume" target="_
 </h3>
 
 <h2 align="center">
-I'm an AI Artist 💻, Builder 🛠, and Student 🎓!
-Graduated from TJHSST, attending Purdue University
+I'm an AI Artist 💻, Audio Engineer 🎧, Builder 🛠, and Student 🎓!
 </h2> 
+
+<h3 align="center">
+Graduated from TJHSST, attending Purdue University
+</h3>
 
 CAP CAP I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look. CAP CAP 
 
