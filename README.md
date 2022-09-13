@@ -31,8 +31,8 @@ If you have any questions or opportunities, please do not hesitate to reach out 
 
 ## 🌱 I'm currently learning
 
-- Flutter
-- Proper AI
+- Tensorflow
+- ROS
 - Music theory
 
 ## 💼 Technical Skills
