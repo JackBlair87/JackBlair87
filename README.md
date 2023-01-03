@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://jackblair.webflow.io/interactiveresume" target="_blank" rel="noreferrer"><img src="https://github.com/JackBlair87/JackBlair87/blob/main/images/banner.png" alt="my banner"></a>
+  <a href="https://tinyurl.com/JackLBlair" target="_blank" rel="noreferrer"><img src="https://github.com/JackBlair87/JackBlair87/blob/main/images/banner.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://jackblair.webflow.io/interactiveresume" target="_blank" rel="noreferrer" alt="my website">Jack</a>  👋🏼</h3>
+Hi there, I'm <a href="https://tinyurl.com/JackLBlair" target="_blank" rel="noreferrer" alt="my website">Jack</a>  👋🏼</h3>
 
 <h2 align="center">
 I'm an AI Artist 💻, Audio Engineer 🎧, Builder 🛠, and Student 🎓!
@@ -13,7 +13,7 @@ I'm an AI Artist 💻, Audio Engineer 🎧, Builder 🛠, and Student 🎓!
 Graduated from <a href="https://www.usnews.com/education/best-high-schools/virginia/districts/fairfax-county-public-schools/thomas-jefferson-high-school-for-science-and-technology-20461" target="_blank" rel="noreferrer" alt="My High School">TJHSST</a>, attending <a href="https://www.purdue.edu/" target="_blank" rel="noreferrer" alt="My College">Purdue University</a>
 </h3>
 
-I love creating audio and video content with the automation and assistance of AI. I like to work on fast moving, relevant projects. This Summer, I am learning how to apply my CS skills to music creation and a general purpose music evaluation model. 
+I love creating audio and video content with the automation and assistance of AI. I like to work on fast moving, relevant projects. This year, I am learning how to apply my CS skills to music creation and a general purpose music evaluation model. 
 
 ### 🤝🏼 Connect with me:
 
