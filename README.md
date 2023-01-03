@@ -19,7 +19,7 @@ I love creating audio and video content with the automation and assistance of AI
 
 - <a href="https://www.linkedin.com/in/jackblair876/"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/linkedin.png" alt="Jack Blair | LinkedIn" width="21px"/></a>
 <a href="https://www.youtube.com/channel/UC-uTdkWQ8doqRwXBlkH67Dw"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/youtube1.png" alt="Jack Blair | YouTube" width="21px"/></a>
-<a href="https://www.instagram.com/jackblairr_"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/instagram.png" alt="Jack Blair | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/jack.blairr/"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/instagram.png" alt="Jack Blair | Instagram" width="21px"/></a>
 
 If you have any questions or opportunities, please do not hesitate to reach out to me!
 
