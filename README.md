@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://tinyurl.com/JackLBlair" target="_blank" rel="noreferrer" alt="my website">Jack</a>  👋🏼</h3>
+Hi there, I'm <a href="https://jack-blair.com" target="_blank" rel="noreferrer" alt="my website">Jack</a>  👋🏼</h3>
 
 <h2 align="center">
 I'm an AI Artist 💻, Audio Engineer 🎧, Builder 🛠, and Student 🎓!
@@ -64,7 +64,7 @@ If you have any questions or opportunities, please do not hesitate to reach out 
 ![](https://img.shields.io/youtube/channel/views/UC-uTdkWQ8doqRwXBlkH67Dw?style=social)
 ![](https://img.shields.io/youtube/channel/subscribers/UC-uTdkWQ8doqRwXBlkH67Dw?style=social)
 ![](https://img.shields.io/github/followers/jackblair87?style=social)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=jackblair87.jackblair87)](https://jackblair.webflow.io/interactiveresume)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=jackblair87.jackblair87)](https://jack-blair.com)
 
 - <a href="https://www.youtube.com/watch?v=AVWecQTfoHo"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/youtube1.png" alt="SmartSkeg | YouTube" width="21px"/></a> [SmartSkeg: the Autonomous Crew Data Collection and Steering System](https://www.youtube.com/watch?v=AVWecQTfoHo)
 - <a href="https://www.youtube.com/watch?v=THxg8fvvzO4"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/youtube1.png" alt="SmartSkeg | YouTube" width="21px"/></a> [Autonomous Intersection in Python](https://www.youtube.com/watch?v=THxg8fvvzO4)
