@@ -74,3 +74,20 @@ If you have any questions or opportunities, please do not hesitate to reach out 
 [![Jack's Github Stats](https://github-readme-stats.vercel.app/api?username=jackblair87)](https://github.com/jackblair87)
 
 README Credit: [Yu Shi](https://github.com/yushi1007)
+
+
+I'm Jack Blair, a passionate innovator and creator deeply immersed in the realms of technology, leadership, and creativity. Currently, I'm a visual design engineering student at Purdue University, aiming for 2026 commencement. I've maintained a solid academic record with a GPA of 3.83, focusing on user interface design for web applications and complementing it with minors in Artificial Intelligence and Mathematics. This reflects my dedication to the intersection of creativity and technical expertise.
+
+Before my time at Purdue, I attended Thomas Jefferson High School for Science and Technology in Alexandria, Virginia, where I achieved an impressive GPA of 4.41. My high school years were filled with activities that spanned robotics, automotive engineering, and music, with one of my proud accomplishments being the First Chair Alto Saxophone.
+
+Professionally, my experiences are varied and rich. Currently, I'm working part-time as a Full Stack iOS App Developer for Quasi Ventures in West Lafayette, Indiana. Here, I've had the exciting opportunity to lead a team in developing a generative AI entertainment app, showcasing not just my development skills but also my ability to creatively apply AI tools. My role as Lead Hardware Engineer and Data Analyst for Orchard Robotics was another milestone, allowing me to spearhead the development of a groundbreaking vehicle-mounted stereo camera imaging product for apple orchards. This experience emphasized my leadership skills and aptitude in managing multifaceted projects involving CAD, 3D printing, and AR in big data 3D geospatial visualizations.
+
+My contributions extend into the academic and non-profit realms through projects like SmartSkeg and Project Caelus. With SmartSkeg, I led a high school research team aimed at revolutionizing rowing sport statistics. As Structures Lead for Project Caelus, I played a key role in the organization's mission to design, build, and launch the first high-school-built suborbital liquid rocket.
+
+I possess a wide range of skills, including expertise in artificial intelligence, web development, and Python programming. My leadership journey, illuminated by a 7-year engagement with the Boy Scouts of America culminating in achieving the Eagle Scout rank in 2019, speaks volumes of my commitment to leading and inspiring. My technical knowledge is backed by certifications like the Azure Essentials from Microsoft Azure obtained in June 2023.
+
+I've also been involved in developing a variety of platforms, from an AI storytelling app to a technology assistant for homework. These projects reflect not only my technical abilities but also my commitment to leveraging technology for positive societal impact.
+
+Outside of work and study, I lead an adventurous life, embracing outdoor activities and community engagement. Leading a two-week, 100-mile hike in Philmont as a navigator was a highlight, showcasing my resilience and leadership in challenging environments.
+
+In summary, my journey is one of relentless innovation and a desire to apply my talents meaningfully in the world. Through my varied projects and leadership roles, I've nurtured a set of skills that reflect my determination to inspire and contribute positively to society
