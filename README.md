@@ -69,10 +69,6 @@ If you have any questions or opportunities, please do not hesitate to reach out 
 - <a href="https://www.youtube.com/watch?v=AVWecQTfoHo"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/youtube1.png" alt="SmartSkeg | YouTube" width="21px"/></a> [SmartSkeg: the Autonomous Crew Data Collection and Steering System](https://www.youtube.com/watch?v=AVWecQTfoHo)
 - <a href="https://www.youtube.com/watch?v=THxg8fvvzO4"><img align="left" src="https://github.com/JackBlair87/JackBlair87/blob/main/images/youtube1.png" alt="SmartSkeg | YouTube" width="21px"/></a> [Autonomous Intersection in Python](https://www.youtube.com/watch?v=THxg8fvvzO4)
 
-## 📈 GitHub Stats 
-
-[![Jack's Github Stats](https://github-readme-stats.vercel.app/api?username=jackblair87)](https://github.com/jackblair87)
-
 README Credit: [Yu Shi](https://github.com/yushi1007)
 
 
